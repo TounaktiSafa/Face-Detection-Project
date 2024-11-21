@@ -1,0 +1,1 @@
+This repository contains a Python script that implements an emotion recognition model using deep learning techniques. The model is designed to classify images of faces into different emotional categories based on a dataset of facial expressions
